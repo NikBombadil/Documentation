@@ -1,0 +1,50 @@
+
+pages:
+  - Home: 'index.md'
+  - MatterOverdrive:
+    - Home: 'MatterOverdrive/index.md'
+    - Blocks:
+      - Stations:
+        - Weapon Station: 'MatterOverdrive/Blocks/Stations/Weapon.md'
+        - Android Station: 'MatterOverdrive/Blocks/Stations/Android.md'
+      - Power Generation:
+        - Fusion Reactor: 'MatterOverdrive/Blocks/Power/FusionReactor.md'
+        - Dimensional Pylon: 'MatterOverdrive/Blocks/Power/DimensionalPylon.md'
+      - Machines:
+        - Inscriber: 'MatterOverdrive/Blocks/Machines/Inscriber.md'
+      - Storage:
+        - Tritanium Crate: 'MatterOverdrive/Blocks/Storage/TritaniumCrate.md'
+    - Items:
+      - Weapons:
+        - Phaser Rifle: 'MatterOverdrive/Items/Weapons/PhaserRifle.md'
+        - Plasma Shotgun: 'MatterOverdrive/Items/Weapons/PlasmaShotgun.md'
+        - Ion Sniper: 'MatterOverdrive/Items/Weapons/IonSniper.md'
+      - Tools:
+        - Omni Tool: 'MatterOverdrive/Items/Tools/OmniTool.md'
+  - Stellar Expansion:
+    - Home: 'StellarExpansion/index.md'
+
+
+
+# Do not edit below here unless you know what you are doing!
+
+theme_dir: 'material'
+site_name: HorizonStudio Documentation
+
+repo_url: 'https://github.com/HrznStudio/Documentation'
+repo_name: 'Visit this wiki on GitHub'
+
+theme:
+  name: 'material'
+extra:
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: 'assets/HrznStudio_avatar.png'
+  feature:
+    tabs: true
+  direction: 'ltr'
+  favicon: 'assets/HrznStudio_avatar.png'
