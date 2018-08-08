@@ -2,3 +2,4 @@
 
 - [Titanium Documentation](/Titanium/)
 - [MatterOverdrive Documentation](/MatterOverdrive/)
+- [GSuite Documentation](/GSuite/)

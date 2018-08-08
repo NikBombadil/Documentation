@@ -3,26 +3,9 @@ pages:
   - Home: 'index.md'
   - Titanium:
     - Home: 'Titanium/index.md'
+    - Modules: 'Titanium/Modules/index.md'
   - MatterOverdrive:
     - Home: 'MatterOverdrive/index.md'
-    - Blocks:
-      - Stations:
-        - Weapon Station: 'MatterOverdrive/Blocks/Stations/Weapon.md'
-        - Android Station: 'MatterOverdrive/Blocks/Stations/Android.md'
-      - Power Generation:
-        - Fusion Reactor: 'MatterOverdrive/Blocks/Power/FusionReactor.md'
-        - Dimensional Pylon: 'MatterOverdrive/Blocks/Power/DimensionalPylon.md'
-      - Machines:
-        - Inscriber: 'MatterOverdrive/Blocks/Machines/Inscriber.md'
-      - Storage:
-        - Tritanium Crate: 'MatterOverdrive/Blocks/Storage/TritaniumCrate.md'
-    - Items:
-      - Weapons:
-        - Phaser Rifle: 'MatterOverdrive/Items/Weapons/PhaserRifle.md'
-        - Plasma Shotgun: 'MatterOverdrive/Items/Weapons/PlasmaShotgun.md'
-        - Ion Sniper: 'MatterOverdrive/Items/Weapons/IonSniper.md'
-      - Tools:
-        - Omni Tool: 'MatterOverdrive/Items/Tools/OmniTool.md'
   - GSuite:
     - Home: 'GSuite/index.md'
 
@@ -32,6 +15,7 @@ pages:
 
 theme_dir: 'material'
 site_name: HorizonStudio Documentation
+copyright: Horizon Studio 2018
 
 repo_url: 'https://github.com/HrznStudio/Documentation'
 repo_name: 'Visit this wiki on GitHub'
