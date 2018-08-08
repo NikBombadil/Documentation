@@ -38,8 +38,8 @@ theme:
   name: 'material'
 extra:
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'hrzn-black'
+    accent: 'hrzn-white'
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
