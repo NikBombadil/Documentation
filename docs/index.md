@@ -1,4 +1,4 @@
-# MatterOverdrive Documentation
+# Horizon Studio
 
+- [Titanium Documentation](/Titanium/)
 - [MatterOverdrive Documentation](/MatterOverdrive/)
-- [Stellar Expansion Documentation](/StellarExpansion/)

@@ -1,6 +1,8 @@
 
 pages:
   - Home: 'index.md'
+  - Titanium:
+    - Home: 'Titanium/index.md'
   - MatterOverdrive:
     - Home: 'MatterOverdrive/index.md'
     - Blocks:
@@ -21,8 +23,8 @@ pages:
         - Ion Sniper: 'MatterOverdrive/Items/Weapons/IonSniper.md'
       - Tools:
         - Omni Tool: 'MatterOverdrive/Items/Tools/OmniTool.md'
-  - Stellar Expansion:
-    - Home: 'StellarExpansion/index.md'
+  - GSuite:
+    - Home: 'GSuite/index.md'
 
 
 
@@ -48,3 +50,8 @@ extra:
     tabs: true
   direction: 'ltr'
   favicon: 'assets/HrznStudio_avatar.png'
+  social:
+    - type: 'github'
+      link: 'https://github.com/HrznStudio'
+    - type: 'twitter'
+      link: 'https://twitter.com/HrznStudio'
