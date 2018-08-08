@@ -3,8 +3,8 @@ pages:
   - Home: 'index.md'
   - Titanium:
     - Home: 'Titanium/index.md'
+    - Skeleton: 'Titanium/Skeleton.md'
     - Modules:
-      - Modules: 'Titanium/Modules/index.md'
       - Cassandra: 'Titanium/Modules/Cassandra/index.md'
       - Commodore: 'Titanium/Modules/Commodore/index.md'
       - Perplex: 'Titanium/Modules/Perplex/index.md'
