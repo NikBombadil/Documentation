@@ -21,11 +21,11 @@ pages:
 # Do not edit below here unless you know what you are doing!
 
 theme_dir: 'material'
-site_name: Horizon Studio Documentation
+site_name: Horizon Mod Wikis
 copyright: Horizon Studio 2018
 
 repo_url: 'https://github.com/HrznStudio/Documentation'
-repo_name: 'Visit this wiki on GitHub'
+repo_name: 'Contribute to this wiki'
 
 theme:
   name: 'material'
