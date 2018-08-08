@@ -1,6 +1,6 @@
 # Titanium Modules
 
-- [Cassandra - GUI Module](#)
-- [Commodore - Command Module](#)
-- [Perplex - Multipart Module](#)
-- [Nucleus - ASM Module](#)
+- [Cassandra - GUI Module](Cassandra)
+- [Commodore - Command Module](Commodore)
+- [Perplex - Multipart Module](Perplex)
+- [Nucleus - ASM Module](Nucleus)

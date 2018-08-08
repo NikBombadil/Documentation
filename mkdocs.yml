@@ -3,9 +3,16 @@ pages:
   - Home: 'index.md'
   - Titanium:
     - Home: 'Titanium/index.md'
-    - Modules: 'Titanium/Modules/index.md'
+    - Modules:
+      - Modules: 'Titanium/Modules/index.md'
+      - Cassandra: 'Titanium/Modules/Cassandra/index.md'
+      - Commodore: 'Titanium/Modules/Commodore/index.md'
+      - Perplex: 'Titanium/Modules/Perplex/index.md'
+      - Nucleus: 'Titanium/Modules/Nucleus/index.md'
   - MatterOverdrive:
     - Home: 'MatterOverdrive/index.md'
+  - Electrodynamics:
+    - Home: 'Electrodynamics/index.md'
   - GSuite:
     - Home: 'GSuite/index.md'
 
@@ -14,7 +21,7 @@ pages:
 # Do not edit below here unless you know what you are doing!
 
 theme_dir: 'material'
-site_name: HorizonStudio Documentation
+site_name: Horizon Studio Documentation
 copyright: Horizon Studio 2018
 
 repo_url: 'https://github.com/HrznStudio/Documentation'
