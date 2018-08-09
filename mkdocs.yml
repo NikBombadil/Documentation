@@ -42,6 +42,7 @@ pages:
 
 theme_dir: 'material'
 site_name: Horizon Mod Wikis
+site_description: Wikis & Documentation for Horizon Studio Mods. Titanium, Matter Overdrive, Electrodynamics & GSuite
 copyright: Horizon Studio 2018
 
 repo_url: 'https://github.com/HrznStudio/Documentation'
