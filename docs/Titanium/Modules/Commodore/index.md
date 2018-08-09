@@ -6,4 +6,4 @@
 compile 'com.hrznstudio:Titanium:[VERSION]:commodore'
 ```
 
-## Usage
+## Basic Usage

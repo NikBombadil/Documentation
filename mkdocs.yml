@@ -5,12 +5,30 @@ pages:
     - Home: 'Titanium/index.md'
     - Skeleton: 'Titanium/Skeleton.md'
     - Modules:
-      - Cassandra: 'Titanium/Modules/Cassandra/index.md'
-      - Commodore: 'Titanium/Modules/Commodore/index.md'
-      - Perplex: 'Titanium/Modules/Perplex/index.md'
-      - Nucleus: 'Titanium/Modules/Nucleus/index.md'
+      - Cassandra:
+        - Cassandra: 'Titanium/Modules/Cassandra/index.md'
+      - Commodore:
+        - Commodore: 'Titanium/Modules/Commodore/index.md'
+      - Corporis:
+        - Corporis: 'Titanium/Modules/Corporis/index.md'
+      - Perplex:
+        - Perplex: 'Titanium/Modules/Perplex/index.md'
+      - Nucleus:
+        - Nucleus: 'Titanium/Modules/Nucleus/index.md'
   - MatterOverdrive:
     - Home: 'MatterOverdrive/index.md'
+    - API:
+      - API: 'MatterOverdrive/API/index.md'
+    - Blocks:
+      - Machines:
+        - Inscriber: 'MatterOverdrive/Blocks/Machines/Inscriber.md'
+      - Storage:
+        - Titanium Crate: 'MatterOverdrive/Blocks/Storage/TitaniumCrate.md'
+    - Items:
+      - Tools:
+        - Battery: 'MatterOverdrive/Items/Tools/Battery.md'
+      - Armour:
+        - Space Suit: 'MatterOverdrive/Items/Armour/SpaceSuit.md'
   - Electrodynamics:
     - Home: 'Electrodynamics/index.md'
   - GSuite:

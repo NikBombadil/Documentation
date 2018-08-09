@@ -5,6 +5,7 @@
 
 - [Cassandra - GUI Module](/Titanium/Modules/Cassandra/)
 - [Commodore - Command Module](/Titanium/Modules/Commodore/)
+- [Corporis - Resource Module](/Titanium/Modules/Corporis/)
 - [Perplex - Multipart Module](/Titanium/Modules/Perplex/)
 - [Nucleus - ASM Module](/Titanium/Modules/Nucleus/)
 

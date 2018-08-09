@@ -5,3 +5,5 @@
 ```
 compile 'com.hrznstudio:Titanium:[VERSION]:perplex'
 ```
+
+## Basic Usage
