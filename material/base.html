@@ -10,10 +10,17 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       {% if page and page.meta and page.meta.description %}
-        <meta name="description" content="{{ page.meta.description }}">
+       <meta name="description" content="{{ page.meta.description }}">
+       <meta property="og:description" content="{{ page.meta.description }}">
       {% elif config.site_description %}
-        <meta name="description" content="{{ config.site_description }}">
+      <meta name="description" content="{{ config.site_description }}">
+      <meta property="og:description" content="{{ config.site_description }}">
       {% endif %}
+
+      <meta property="og:url" content="{{ page.canonical_url }}" />
+      <meta property="og:image" content="{{ base_url }}/{{ config.extra.favicon }}" />
+      <meta property="og:site_name" content="{{ config.site_name }}" />
+
       {% if page.canonical_url %}
         <link rel="canonical" href="{{ page.canonical_url }}">
       {% endif %}
@@ -41,10 +48,13 @@
     {% block htmltitle %}
       {% if page and page.meta and page.meta.title %}
         <title>{{ page.meta.title }}</title>
+        <meta property="og:title" content="{{ page.meta.title }}" />
       {% elif page and page.title and not page.is_homepage %}
         <title>{{ page.title }} - {{ config.site_name }}</title>
+        <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}" />
       {% else %}
         <title>{{ config.site_name }}</title>
+        <meta property="og:title" content="{{ config.site_name }}" />
       {% endif %}
     {% endblock %}
     {% block styles %}

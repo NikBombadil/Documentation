@@ -5,6 +5,8 @@ pages:
     - Home: 'Titanium/index.md'
     - Skeleton: 'Titanium/Skeleton.md'
     - Modules:
+      - Base:
+        - Base: 'Titanium/Modules/Base/index.md'
       - Cassandra:
         - Cassandra: 'Titanium/Modules/Cassandra/index.md'
       - Commodore:
@@ -44,7 +46,12 @@ copyright: Horizon Studio 2018
 
 repo_url: 'https://github.com/HrznStudio/Documentation'
 repo_name: 'Contribute to this wiki'
-
+markdown_extensions:
+  - admonition
+  - codehilite
+  - meta
+  - toc:
+      permalink: te &#128279;
 theme:
   name: 'material'
 extra:
