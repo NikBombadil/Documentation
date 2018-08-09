@@ -87,3 +87,6 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/HrznStudio'
       brand: true
+    - type: 'discord'
+      link: 'https://discord.gg/758eCD7'
+      brand: true
