@@ -37,5 +37,5 @@ instance.getMatterForStackIgnoreCount(ItemStack stack, @Nullable EntityPlayer pl
 ```
 
 ```java
-instance    .getMatterForItem(Item item, @Nullable EntityPlayer player)
+instance.getMatterForItem(Item item, @Nullable EntityPlayer player)
 ```

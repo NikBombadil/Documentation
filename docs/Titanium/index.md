@@ -12,7 +12,7 @@
 
 ### Installing Modules
 
-You can use the [**Skeleton**](/Titanium/Skeleton/) system instead of manually installing titanium.
+You can use the [<u>Skeleton<u>](/Titanium/Skeleton/) system instead of manually installing titanium.
 
 #### Maven: 
 ```gradle
@@ -21,7 +21,7 @@ maven { url "https://modmaven.k-4u.nl" }
 
 #### Specifying Modules:
 
-[__Base__](/Titanium/Modules/Base/) is a required module, if using seperate installs you must specify base, see [~~Base - Installation~~](/Titanium/Modules/Base/#installation)
+[<u>Base</u>](/Titanium/Modules/Base/) is a required module, if using seperate installs you must specify base, see [<u>Base - Installation</u>](/Titanium/Modules/Base/#installation)
 
 Modules are availible as seperate jars for development to prevent bloating up a dev environment
 
