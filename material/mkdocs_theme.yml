@@ -31,6 +31,8 @@ feature:
   # Another layer on top of the main navigation for larger screens in the form
   # of tabs, especially useful for larger documentation projects
   tabs: false
+  
+faversion: 5.2.0
 
 # Sets the primary and accent color palettes as defined in the Material Design
 # documentation - possible values can be looked up in the getting started guide

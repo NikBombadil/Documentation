@@ -83,5 +83,7 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/HrznStudio'
+      brand: true
     - type: 'twitter'
       link: 'https://twitter.com/HrznStudio'
+      brand: true

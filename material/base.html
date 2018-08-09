@@ -12,7 +12,7 @@
       {% if page and page.meta and page.meta.description %}
        <meta name="description" content="{{ page.meta.description }}">
        <meta property="og:description" content="{{ page.meta.description }}">
-      {% elif config.site_description %}
+      {% elif config.site_description %}    
       <meta name="description" content="{{ config.site_description }}">
       <meta property="og:description" content="{{ config.site_description }}">
       {% endif %}
@@ -51,7 +51,7 @@
         <meta property="og:title" content="{{ page.meta.title }}" />
       {% elif page and page.title and not page.is_homepage %}
         <title>{{ page.title }} - {{ config.site_name }}</title>
-        <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}" />
+        <meta property="og:title" content="{{ page.title }}" />
       {% else %}
         <title>{{ config.site_name }}</title>
         <meta property="og:title" content="{{ config.site_name }}" />
@@ -84,7 +84,7 @@
       {% endif %}
     {% endblock %}
     <link rel="stylesheet" href="{{ base_url }}/assets/fonts/material-icons.css">
-    <link rel="stylesheet" href="{{ base_url }}/assets/fonts/font-awesome.css">
+    <link href="https://use.fontawesome.com/releases/v{{ config.extra.faversion }}/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" rel="stylesheet">
     {% for path in extra_css %}
       <link rel="stylesheet" href="{{ path }}">
     {% endfor %}

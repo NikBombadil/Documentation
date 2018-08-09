@@ -1,7 +1,11 @@
 {% if config.extra.social %}
   <div class="md-footer-social">
     {% for social in config.extra.social %}
-      <a href="{{ social.link }}" class="md-footer-social__link fa fa-{{ social.type }}"></a>
+      {% if social.brand %}
+        <a href="{{ social.link }}" class="md-footer-social__link fab fa-{{ social.type }}"></a>
+      {% else %}
+        <a href="{{ social.link }}" class="md-footer-social__link far fa-{{ social.type }}"></a>
+      {% endif %}
     {% endfor %}
   </div>
 {% endif %}
