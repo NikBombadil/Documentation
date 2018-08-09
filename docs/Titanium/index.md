@@ -12,7 +12,7 @@
 
 ### Installing Modules
 
-You can use the [<u>Skeleton<u>](/Titanium/Skeleton/) system instead of manually installing titanium.
+You can use the [<u>Skeleton</u>](/Titanium/Skeleton/) system instead of manually installing titanium.
 
 #### Maven: 
 ```gradle
