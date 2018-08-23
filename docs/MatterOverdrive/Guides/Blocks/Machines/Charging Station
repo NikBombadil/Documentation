@@ -1,0 +1,2 @@
+The Charging station is used to charge Android Players. It can charge androids up to 16 block radius. The charge speed is dependent on the distance of the Android from the Station.
+The station can also be upgrade with a Range Upgrade, but the transfer speed will be lowered by the power usage amount.
