@@ -1,0 +1,3 @@
+The Pattern Monitor is used to issue Item Pattern Task to Replicator. It searches the local network for Pattern Storage, and displays all item patterns. Then an amount is chosen to be sent to the replicators.
+
+To send the request, press the Second button on the right.
