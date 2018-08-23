@@ -1,0 +1,5 @@
+The Matter Analyzer, is the block equivalent to the Matter Scanner. The main difference is, the Analyzer is the only way to scan items. It also scans items and blocks twice as much as the Matter Scanner, increasing their progress by 20%.
+How it works:
+
+The Matter Analyzer requires power, in order to function. When an item is placed in the input slot, the analyzer will search for valid destinations. It will need to find a valid  to use as storage. The drives will be housed in Pattern Storage. The Analyzer must be connected to a Matter Network to search for free pattern storage. It can only be connected trough it’s back side. The Analyzer is smart enough to hold progression when pattern storage is not found. A Network Flash Drive can be used to limit the pattern storage blocks the Analyzer can interact with, by putting it in the network filter slot in the configurations tab.
+A valid Matter Network must be provided, to store analyzed Matter Patterns.
