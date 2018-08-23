@@ -1,0 +1,2 @@
+The Transporter is used to transport entities from one location to another. The default range of the transporter is 32 blocks. But with 4 Range Upgrade, it can increase up to 256 times, that is 8192 blocks in each direction.
+The energy required to transport is based on the distance of the trip, and it doesn’t matter how many entities there are in one trip.
