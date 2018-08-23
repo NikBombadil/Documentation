@@ -1,0 +1,6 @@
+This module enables Fire Damage to be dealt to Mobs. The down side is that it take twice as much ammo (power in case of energy weapons).
+
+ 
+
+    -50% Ammunition
+    +100% Fire Damage
