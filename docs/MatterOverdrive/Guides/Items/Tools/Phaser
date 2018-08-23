@@ -1,0 +1,10 @@
+A Phaser, is an energy weapon, capable of stunning or killing a living being. The Phaser has 2 main settings and levels between them. The Phaser also requires power to function and can hold up to 64K RF on it’s own. It can also use any RF Energy Storage, such as a Battery. The Phaser can also be upgraded with a Weapon Modules at the Weapon Station.
+To increase the level, press the right mouse button while sneaking.
+
+    Stun
+
+    In this setting, the phaser will do a minimal amount of damage, but it will stun the enemy for a period of time.
+    
+    Kill
+
+    In this setting, the phaser will, damage and kill any living entity. The damage is proportional to the Kill setting.
