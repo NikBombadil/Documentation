@@ -1,0 +1,9 @@
+Used to deconstruct items and blocks into matter plasma. Used in conjunction with the Replicator to provide mater plasma for replication.
+Each Item or Block has a chance to fail and turn into Matter Dust.
+How to use
+
+Put an item that can be replicated, in the input slot. After the item is broken down the internal tank will be filled with proportional amount of matter. You can use Matter Pipe or any other fluid pipe to transfer the matter to other machines.
+
+To see how much matter an item contains, hold Shift while the item tooltip is active. You can view more information about the energy cost and matter drain of the decomposing item, by hovering over the matter or energy tank.
+
+By using a Tritanium Wrench you can pick the machine up with all of it’s matter and energy as well as all of it’s upgrades and configurations intact.
