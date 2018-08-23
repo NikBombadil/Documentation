@@ -1,5 +1,6 @@
-This module creates explosions on each hit. It also allows the weapon to destroy blocks, if powerful enough. The down side is that the fire rate is lowered significantly and the ammo usage is increased.
+This module creates explosions on each hit. The down side is that the fire rate is lowered significantly and the ammo usage is increased.
 
+Can be used by: Ion Sniper, Plasma Shotgun and the Phaser Rifle.
  
 
     Explosive Damage: +100%
