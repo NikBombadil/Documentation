@@ -1,8 +1,8 @@
-This module creates explosions on each hit. It also allows the weapon to destroy blocks, if powerful enough. The down side is that the fire rate is lowered significantly and the ammo usage is increased by 80%.
+This module creates explosions on each hit. It also allows the weapon to destroy blocks, if powerful enough. The down side is that the fire rate is lowered significantly and the ammo usage is increased.
 
  
 
-    +100% Explosive Damage
-    -80% Ammunition
-    -50% Effect
-    -85% Fire Rate
+    Explosive Damage: +100%
+    Ammo: -20%
+    Effect: -50%
+    Fire rate: -15%
