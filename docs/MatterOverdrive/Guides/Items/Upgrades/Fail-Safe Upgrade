@@ -2,6 +2,7 @@ The Fail Safe Upgrade is used to lower the chance of failure. It can be used in 
 
  
 
-    -25% Fail Chance
-    -25% Speed
-    +25% Power Usage
+    Power Usage: +125%
+    Time: +125%
+    Matter Usage: -125%
+    Failure: -50%
