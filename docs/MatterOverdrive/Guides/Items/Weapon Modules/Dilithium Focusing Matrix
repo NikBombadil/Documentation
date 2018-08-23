@@ -1,7 +1,7 @@
-The Dilithium Focusing Matrix, is an upgrade to a weapon’s barrel. It increases the weapon damage by 50%, but decreases the ammunition by 50% (in a case of energy, it increases the power use) and the Special Effect of the weapon by 50%
+The Dilithium Focusing Matrix focuses shots for extra damage.
+Can be used by: Plasma Shotgun, Ion Sniper and the Phaser Rifle
 
  
-
-    +50% Damage
-    -50% Ammunition
-    -50% Effect
+    Damage: +150%
+    Ammo: -50%
+    Effect: -50%
