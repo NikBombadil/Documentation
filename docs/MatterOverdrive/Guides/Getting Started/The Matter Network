@@ -1,0 +1,6 @@
+Most machines, such as the Matter Analyzer or the Pattern Monitor have an internal task queue. They transmit these task every so often to adjacent Matter Network Pipe, Network Router or Network Switch.
+
+A local network is formed by using Network Switch.
+
+    The Matter Analyzer will broadcast an analyzed item pattern and the first pattern storage available will pick it up.
+    The Pattern Monitor will broadcast to all of the Replicators on the local network and the first available will pick it up. Then the Replicator will find a pattern storage that has the highest progress on the given Item Pattern and will begin to replicate until the desired quota is reached.
