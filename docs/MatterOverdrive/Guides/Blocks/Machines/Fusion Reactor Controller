@@ -1,0 +1,2 @@
+The Fusion Reactor Controller is the main component in the Fusion Reactor. It manages the Fusion Reactor Structure and outputs the generated energy.
+It also accepts matter, which is needed for the power generation.
