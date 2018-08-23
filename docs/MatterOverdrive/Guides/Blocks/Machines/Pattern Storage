@@ -1,0 +1,6 @@
+
+The Pattern Storage serves as a container for Pattern Drive. Each storage houses 6 Pattern Drive. It’s the only way to store item patters and make them available to other machines trough the matter network. The Replicator for example, requires the Pattern Storage to acquire patterns for replication.
+
+How to use
+
+Connect the Pattern Storage to a Matter Network using Matter Network Pipe trough the back. Machines like the Matter Analyzer or Replicator will try to find the first available Pattern Storage. The Pattern Monitor will show patterns stored in each Pattern Drive of the Pattern Storage.
