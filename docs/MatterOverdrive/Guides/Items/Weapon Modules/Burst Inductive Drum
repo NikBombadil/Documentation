@@ -1,6 +1,6 @@
 This module creates explosions on each hit. The down side is that the fire rate is lowered significantly and the ammo usage is increased.
 
-Can be used by: Ion Sniper, Plasma Shotgun and the Phaser Rifle.
+Can be used by: Ion Sniper, Plasma Shotgun, Phaser Rifle and the Phaser.
  
 
     Explosive Damage: +100%
