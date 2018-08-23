@@ -1,6 +1,8 @@
-This module enables Fire Damage to be dealt to Mobs. The down side is that it take twice as much ammo (power in case of energy weapons).
+This module enables Fire Damage to be dealt to Mobs.
+Can be used by: Phaser Rifle, Ion Sniper and the Plasma Shotgun
 
  
 
-    -50% Ammunition
-    +100% Fire Damage
+    Fire Damage: +100%
+    Ammo: -50%
+    Damage: -75%
