@@ -1,0 +1,14 @@
+The Replicator, is a machine, that uses transporter technology to materialize item patterns into their physical counterpart. It works by rearranging subatomic particles on a larger scale, by using Matter Plasma. In short, it replicates items and blocks, thus its name, The Replicator.
+How to use
+
+Before you can replicate an item, you must have its pattern. It can be obtained by using a Matter Scanner or a Matter Analyzer. Unfortunately the scanning process destroys the item. Every time the item is scanned, it’s progress will increase. A Redstone signal may be required to start the replication process, depending on the redstone setting of the machine.
+Matter Plasma is also required to replicate items. How much depends on the item itself.
+
+Be warned! The replication process produces high amounts of radiation. Without protective plating any living creature will receive large doses of radiation followed by a ton of negative potion effects, such as Hunger, Nausea, Fatigue,Weakness and Poison. To protect against radiation, a maximum of 5 Tritanium Plate can be used to protect the user from the deadly radiation. Each plate also decreases the area of effect.
+
+To replicate an item, you can issue a replication command from a connected Pattern Monitor, trough Matter Network Pipe. Then the replicator will search for the item’s pattern in the local Matter Network. It will request the pattern with the highest progress from a Pattern Storage. After a valid pattern is found, the replicator will start replicating the item, draining matter and energy from the internal tanks. The Replicator can only process one task at a time. The replication can be stopped from the Tasks Page in the Replicator’s GUI.
+Each replication, has a chance to fail, and produce it’s matter’s amount in Matter Dust
+Replication, without shielding , will cause Hunger, Nausea, Fatigue,Weakness and Poison.
+Matter Network
+
+The replicator can only be connected to its back side. Once connected to a network, the Pattern Monitor can be used to issue replication tasks, to all replicators connected. The Replicator once given a replication task, will search the Local Network for valid patterns. A Network Flash Drive can be used to filter machines with which the Replicator can communicate.
