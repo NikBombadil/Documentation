@@ -1,0 +1,7 @@
+Turns your Phaser into a useful medical tool. Allows your beam to heal.
+
+Can be used by: Phaser
+
+    Heal: +20%
+    Damage: -100%
+    Ammo: -50%
