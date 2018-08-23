@@ -1,4 +1,4 @@
-The Fail Safe Upgrade is used to lower the chance of failure. It can be used in Replicator and the Decomposer, to lower the chance of failure and byproduct production in the form of Matter Dust instead of an Item or Matter Plasma. Although it decreases the fail chance, it also increases the power usage by 25% and lowers the Speed by 25%.
+The Fail Safe Upgrade is used to lower the chance of failure. It can be used in Replicator and the Decomposer, to lower the chance of failure and byproduct production in the form of Matter Dust instead of an Item or Matter Plasma. Although it decreases the fail chance, it also increases the power and lowers Speed.
 
  
 
