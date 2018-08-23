@@ -1,2 +1,4 @@
-The sniper scope is the first Scope module. It can only be installed on Energy Weapons that support it. 
-As of 0.4.1 the only weapons that support it are the Phaser Rifle and the Ion Sniper.
+The sniper scope allows for longer ranged combat. 
+Can be equipped by: Phaser Rifle and the Ion Sniper
+
+    Range: +150%
