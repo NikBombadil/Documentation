@@ -1,7 +1,9 @@
-The Speed Upgrade is used to speed up machines. It can be used in almost every Matter Overdrive machine. The down side is that it makes the power usage go up by 50% and the failure increases by 25%.
+The Speed Upgrade is used to speed up machines. It can be used in almost every Matter Overdrive machine.
+The trade-off is that power consumption is increased and the probability of failure increases as well.
 
  
 
-    +25% Speed
-    +25% Fail Chance
-    +50% Power Usage
+    Power Usage: +125%
+    Failure: +125%
+    Time: -75
+    Matter Usage: +125
