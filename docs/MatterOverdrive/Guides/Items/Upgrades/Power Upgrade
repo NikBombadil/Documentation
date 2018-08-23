@@ -1,5 +1,6 @@
-The Power Upgrade can be used to decrease the power usage of most machines in Matter Overdrive. This comes at a price, by decreasing the speed by 50% and increasing the failure of the machine by 50%.
+The Power Upgrade can be used to decrease the power usage of most machines. 
+This comes at a price though, by increasing the speed the chance of an error occuring during a process increases.
 
-    -50% Power Usage
-    -50% Speed
-    +50% Fail Chance
+    Time: +150%
+    Failure: +125%
+    Power Usage: -75%
