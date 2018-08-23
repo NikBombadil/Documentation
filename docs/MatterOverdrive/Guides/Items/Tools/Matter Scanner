@@ -1,0 +1,13 @@
+The Matter Scanner, is a device that helps the player to scan for block patterns on the go. Unfortunately the scanner does not have the capabilities of storing the pattern itself. The shear amount of data can not be stored in this little device.
+This is where the Pattern Storage and the Pattern Drive comes into play. A is a block that houses 6 Pattern Drive. Each  Pattern Drive has the storage capacity of 2 items.
+The scanner itself has to be linked with an active Pattern Storage block, by placing it in the input slot. A little amount of power is required to link the device.
+
+ 
+How to use:
+
+To access the GUI for the scanner, it must be in your inventory, or in you hotbar, then press the ‘C’ key.
+
+To use the scanner, first it must be linked to an active Pattern Storage. The Pattern Storage has to have enough free pattern storage to be able to scan new Blocks.
+Click and hold, then point at a block, that contains more than 0 matter, then stay on that block until it is harvested and the pattern scanning progress for the given block will be increased.
+If the item pattern is fully processed, then an error sound will indicate that it cannot be scanned any more. The Error sound also indicates, that a block is not valid for scanning, such as Bedrock.
+Be warned that scanned blocks will be destroyed in the process.
